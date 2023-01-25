@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/congratulations",
+  "id": "tutorial-basics/congratulations",
+  "title": "安装成功！",
+  "description": "与作者交流通道：",
+  "source": "@site/docs/tutorial-basics/congratulations.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/congratulations",
+  "permalink": "/docs/tutorial-basics/congratulations",
+  "draft": false,
+  "editUrl": "https://github.com/VMTask/nvPressPanel-Docs/tree/main/docs/docs/tutorial-basics/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "一键安装",
+    "permalink": "/docs/tutorial-basics/one-key-to-install"
+  },
+  "next": {
+    "title": "常见问题",
+    "permalink": "/docs/category/常见问题"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "常见问题",
+  "slug": "/category/常见问题",
+  "permalink": "/docs/category/常见问题",
+  "navigation": {
+    "previous": {
+      "title": "安装成功！",
+      "permalink": "/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "已知问题",
+      "permalink": "/docs/tutorial-extras/已知问题"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "说在前面",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "基本安装",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "一键安装",
+            "href": "/docs/tutorial-basics/one-key-to-install",
+            "docId": "tutorial-basics/one-key-to-install"
+          },
+          {
+            "type": "link",
+            "label": "安装成功！",
+            "href": "/docs/tutorial-basics/congratulations",
+            "docId": "tutorial-basics/congratulations"
+          }
+        ],
+        "href": "/docs/category/基本安装"
+      },
+      {
+        "type": "category",
+        "label": "常见问题",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "已知问题",
+            "href": "/docs/tutorial-extras/已知问题",
+            "docId": "tutorial-extras/已知问题"
+          },
+          {
+            "type": "link",
+            "label": "提交问题",
+            "href": "/docs/tutorial-extras/提交问题",
+            "docId": "tutorial-extras/提交问题"
+          }
+        ],
+        "href": "/docs/category/常见问题"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "说在前面",
+      "description": "nvPress为熊猫开发，本程序为非官方衍生版本，官网",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/congratulations": {
+      "id": "tutorial-basics/congratulations",
+      "title": "安装成功！",
+      "description": "与作者交流通道：",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/one-key-to-install": {
+      "id": "tutorial-basics/one-key-to-install",
+      "title": "一键安装",
+      "description": "确认 DNS正确 后，在Bash内键入:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/提交问题": {
+      "id": "tutorial-extras/提交问题",
+      "title": "提交问题",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/已知问题": {
+      "id": "tutorial-extras/已知问题",
+      "title": "已知问题",
+      "description": "Q:我的FTP文件夹为何只能访问/?",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

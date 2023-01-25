@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/one-key-to-install",
+  "id": "tutorial-basics/one-key-to-install",
+  "title": "一键安装",
+  "description": "确认 DNS正确 后，在Bash内键入:",
+  "source": "@site/docs/tutorial-basics/one-key-to-install.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/one-key-to-install",
+  "permalink": "/docs/tutorial-basics/one-key-to-install",
+  "draft": false,
+  "editUrl": "https://github.com/VMTask/nvPressPanel-Docs/tree/main/docs/docs/tutorial-basics/one-key-to-install.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "基本安装",
+    "permalink": "/docs/category/基本安装"
+  },
+  "next": {
+    "title": "安装成功！",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  }
+}

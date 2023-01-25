@@ -1,0 +1,16 @@
+{
+  "title": "基本安装",
+  "description": "基本安装",
+  "slug": "/category/基本安装",
+  "permalink": "/docs/category/基本安装",
+  "navigation": {
+    "previous": {
+      "title": "说在前面",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "一键安装",
+      "permalink": "/docs/tutorial-basics/one-key-to-install"
+    }
+  }
+}

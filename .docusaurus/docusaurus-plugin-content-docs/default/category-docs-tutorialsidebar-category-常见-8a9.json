@@ -1,0 +1,15 @@
+{
+  "title": "常见",
+  "slug": "/category/常见",
+  "permalink": "/docs/category/常见",
+  "navigation": {
+    "previous": {
+      "title": "安装成功！",
+      "permalink": "/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}
