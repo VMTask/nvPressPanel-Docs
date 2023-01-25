@@ -93,6 +93,11 @@ export default [
     exact: true
   },
   {
+    path: '/report',
+    component: ComponentCreator('/report', 'e75'),
+    exact: true
+  },
+  {
     path: '/docs',
     component: ComponentCreator('/docs', '927'),
     routes: [
