@@ -186,6 +186,12 @@
     },
     "config": "config---report-5-e-9-a4c"
   },
+  "/search-35b": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---searchc-15-a53"
+    }
+  },
   "/docs-927": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {

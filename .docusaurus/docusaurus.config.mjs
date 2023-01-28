@@ -21,6 +21,14 @@ export default {
     "path": "i18n",
     "localeConfigs": {}
   },
+  "themes": [
+    [
+      "C:\\Users\\VMTask\\Desktop\\nvPressPanel-Docs\\node_modules\\.pnpm\\@easyops-cn+docusaurus-search-local@0.33.6_lhsnqlb35hvawm3f6bviuzo2eu\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      {
+        "hashed": true
+      }
+    ]
+  ],
   "presets": [
     [
       "classic",
@@ -314,7 +322,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
