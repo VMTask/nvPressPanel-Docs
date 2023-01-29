@@ -78,6 +78,10 @@ const config = {
             label: '安装',
           },
           {
+            href: 'https://bbs.nvpress.tk',
+            label: '论坛'
+          },
+          {
             href: 'https://github.com/VMTask/nvPressPanel',
             label: 'GitHub',
             position: 'right',
