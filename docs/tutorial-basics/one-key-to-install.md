@@ -6,7 +6,7 @@ sidebar_position: 1
 
 确认 **DNS正确** 后，在Bash内键入:
 ```bash
-sudo curl -fsSL https://get.nvpress.tk/ 
+sudo curl -fsSL https://get.nvpress.tk/ | bash
 ```
 等待安装完成。
 在安装完后，你在安装中使用的域名应当仍然不能访问。
